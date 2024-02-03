@@ -1,0 +1,21 @@
+﻿@model PetDetailsServiceModel
+
+<h1 style="text-align:center"> Are you sureyou want to delete the following pet?</h1>
+
+<br />
+
+<div style ="text-align:center">
+    <p>@Model.Category</p>
+    <p>@Model.Breed</p>
+    <p>@Model.DateOfBirth.ToShortDateString()</p>
+    <p>@Model.Gender</p>
+    <p>@Model.Description</p>
+    <p>@Model.Price</p>
+</div>
+
+<div style="text-align:center">
+    <a href="/Pets/All" class="btn btn-info">No</a> &nbsp;
+    <a style="text-align:right"
+       href="/Pets/ConfirmDelete/@Model.Id" class="btn btn-danger">Yes!</a>
+</div>
+ 
