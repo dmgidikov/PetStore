@@ -640,3 +640,5 @@ E:\SoftUni\Passed\06. Entity Framework Core\14.WorkShop - ASP\PetStore - Copy\Pe
 E:\SoftUni\Passed\06. Entity Framework Core\14.WorkShop - ASP\PetStore - Copy\PetStore.Services\obj\Debug\net8.0\PetStore.Services.pdb
 E:\SoftUni\Passed\06. Entity Framework Core\14.WorkShop - ASP\PetStore - Copy\PetStore.Services\obj\Debug\net8.0\PetStore.Services.genruntimeconfig.cache
 E:\SoftUni\Passed\06. Entity Framework Core\14.WorkShop - ASP\PetStore - Copy\PetStore.Services\obj\Debug\net8.0\ref\PetStore.Services.dll
+E:\SoftUni\Passed\06. Entity Framework Core\14.WorkShop - ASP\PetStore\PetStore.Services\bin\Debug\net8.0\PetStore.Services.runtimeconfig.json
+E:\SoftUni\Passed\06. Entity Framework Core\14.WorkShop - ASP\PetStore\PetStore.Services\obj\Debug\net8.0\PetStore.Services.genruntimeconfig.cache

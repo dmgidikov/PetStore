@@ -6,9 +6,12 @@
     using Data;
     using PetStore.Data.Models;
     using PetStore.Services.Models.Category;
+    using PetStore.Services.Models.Pet;
 
     public class CategoryService : ICategoryService
     {
+        private const int PageSize = 25;
+
         private readonly PetStoreDbContext data;
 
         public CategoryService(PetStoreDbContext data)
@@ -97,5 +100,20 @@
                 .Categories
                 .Any(c => c.Id == categoryId);
         }
+
+        public int Total() => this.data.Categories.Count();
+
+        public IEnumerable<AllCategoriesServiceModel> All(int page = 1)
+                    => this.data
+                .Categories
+                .Skip((page - 1) * PageSize)
+                .Take(PageSize)
+                .Select(c => new AllCategoriesServiceModel
+                {
+                    Id = c.Id,
+                    Name= c.Name,
+                    Description = c.Description
+                })
+            .ToList();
     }
 }

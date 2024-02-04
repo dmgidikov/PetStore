@@ -5,8 +5,6 @@ namespace PetStore.Services
 {
     public interface ICategoryService
     {
-        DetailsCategoryServiceModel GetById(int id);
-
         void Create(CreateCategoryServiceModel model);
 
         void Edit(EditCategoryServiceModel model);
@@ -15,6 +13,10 @@ namespace PetStore.Services
 
         bool Exists(int categoryId);
 
-        IEnumerable<AllCategoriesServiceModel> All();
+        DetailsCategoryServiceModel GetById(int id);
+
+        IEnumerable<AllCategoriesServiceModel> All(int page = 1);
+
+        public int Total();
     }
 }

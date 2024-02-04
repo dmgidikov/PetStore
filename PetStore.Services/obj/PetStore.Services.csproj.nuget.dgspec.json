@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services\\PetStore.Services.csproj": {}
+    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services\\PetStore.Services.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
         "projectName": "PetStore.Data.Models",
-        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
         "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\obj\\",
+        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,14 +84,14 @@
         }
       }
     },
-    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data\\PetStore.Data.csproj": {
+    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data\\PetStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data\\PetStore.Data.csproj",
+        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
         "projectName": "PetStore.Data",
-        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data\\PetStore.Data.csproj",
+        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
         "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data\\obj\\",
+        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
-                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
+    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services.Models\\PetStore.Services.Models.csproj",
+        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services.Models\\PetStore.Services.Models.csproj",
         "projectName": "PetStore.Services.Models",
-        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services.Models\\PetStore.Services.Models.csproj",
+        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services.Models\\PetStore.Services.Models.csproj",
         "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services.Models\\obj\\",
+        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,8 +197,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
-                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
               }
             }
           }
@@ -252,14 +252,14 @@
         }
       }
     },
-    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services\\PetStore.Services.csproj": {
+    "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services\\PetStore.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services\\PetStore.Services.csproj",
+        "projectUniqueName": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services\\PetStore.Services.csproj",
         "projectName": "PetStore.Services",
-        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services\\PetStore.Services.csproj",
+        "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services\\PetStore.Services.csproj",
         "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services\\obj\\",
+        "outputPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -281,14 +281,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
-                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
               },
-              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data\\PetStore.Data.csproj": {
-                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data\\PetStore.Data.csproj"
+              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data\\PetStore.Data.csproj": {
+                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data\\PetStore.Data.csproj"
               },
-              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
-                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Services.Models\\PetStore.Services.Models.csproj"
+              "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
+                "projectPath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Services.Models\\PetStore.Services.Models.csproj"
               }
             }
           }

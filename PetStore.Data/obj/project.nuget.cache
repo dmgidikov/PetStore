@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rjaD4/LRFgKCgN6R5IrEFdmx6Zrsj98G4LUWz8dF724W7smlOvSwIJ+2PweN3BgP4sdFqjd+JUC+jVBKIColRg==",
+  "dgSpecHash": "O//jZS1KpCt6cZlxsmTAyi88ChulqTPl2R0X2t10H2qmN6vtDP2Gkze9qT8x/moyCtwaEOlWDA+FqwPh7cJxqw==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore - Copy\\PetStore.Data\\PetStore.Data.csproj",
+  "projectFilePath": "E:\\SoftUni\\Passed\\06. Entity Framework Core\\14.WorkShop - ASP\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deyan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Deyan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
